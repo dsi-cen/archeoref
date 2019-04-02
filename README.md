@@ -13,15 +13,15 @@ De nombreuses organisations ont aidé à développer les référentiels FISH, no
 British & Irish Archaeological Bibliography (BIAB), Manx National Heritage, Museum of London, the National Archives, Northern Ireland Environment and Heritage Service, the Portable Antiquities Scheme et the Victoria & Albert Museum.
 (sources : http://www.heritage-standards.org.uk/)
 
-Qu'est-ce qu'un thésaurus?
+**Qu'est-ce qu'un thésaurus?**
 
 Un thésaurus est une liste de mots structurée utilisée pour normaliser la terminologie. Il est utilisé pour faciliter l'indexation et la récupération d'informations dans des bases de données utilisant la même terminologie.
 
-Pourquoi un thésaurus est-il utile?
+**Pourquoi un thésaurus est-il utile?**
 
 Un thésaurus peut définir les normes de toutes les informations relatives à un sujet donné, même si elles sont contenues dans plusieurs ensembles de données gérés par différentes organisations.
 
-Un thésaurus:
+**Un thésaurus:**
 
 permet de regrouper des termes liés par un sujet similaire dans des hiérarchies et de renvoyer à d'autres groupes de termes pouvant être pertinents pour le sujet.
 fournit à l'utilisateur un seul terme préféré
